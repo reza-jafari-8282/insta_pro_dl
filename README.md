@@ -1,4 +1,4 @@
-## It is instagram profile downloader.
+## instagram profile downloader.
 
 
 ### Runnig
