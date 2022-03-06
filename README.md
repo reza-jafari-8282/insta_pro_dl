@@ -1,7 +1,7 @@
 It is instagram profile downloader.
 
 
-###Runnig
+### Runnig
 
 run 'insta_pro_dl.py' file and enter an id.
 
